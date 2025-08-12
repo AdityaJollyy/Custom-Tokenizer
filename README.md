@@ -2,9 +2,6 @@
 
 A web-based character-level tokenizer built with React and Vite. This interactive tool allows you to encode text into token sequences and decode token sequences back into text, making it perfect for understanding tokenization concepts or preprocessing text for machine learning models.
 
-![Custom Tokenizer Preview](https://img.shields.io/badge/React-19.1.1-blue?logo=react)
-![Vite](https://img.shields.io/badge/Vite-7.1.2-green?logo=vite)
-
 ## ✨ Features
 
 - **Real-time Tokenization**: Instantly see your text converted to tokens as you type
